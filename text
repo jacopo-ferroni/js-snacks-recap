@@ -1,0 +1,29 @@
+JSnack 2
+L’utente inserisce due parole in successione, con due prompt.
+Il software stampa prima la parola più corta, poi la parola più lunga.
+JSnack 3
+ Il software deve chiedere per 5 volte all’utente di inserire un numero.
+ Il programma stampa la somma di tutti i numeri inseriti con for
+ e opzionalmente con while (edited) 
+JSnack 4
+Crea un array vuoto.
+Chiedi per 6 volte all’utente di inserire un numero,
+se è dispari inseriscilo nell’array
+Proseguire poi con quelli presenti nel blocco JS Snacks 2 (trovate pdf in allegato). Di questo blocco fatene almeno 2.
+Create una sotto-cartella per ogni blocco e JSnack. Riportate la consegna dello snack all’inizio del file js in un commento.
+La struttura dei file dovrebbe essere la seguente:
+js-snacks-blocco-1 (cartella) (( quelli visti insieme stamattina ))
+  jsnack1 (cartella)
+   - index.html
+   - script.js
+  jsnack2 (cartella)
+   - index.html
+   - script.js
+  ...
+js-snacks-blocco-2 (cartella) ((quelli del pdf allegato sotto))
+  jsnack1 (cartella)
+   - index.html
+   - script.js
+  jsnack2 (cartella)
+   - index.html
+   - script.js
